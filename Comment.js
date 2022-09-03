@@ -1,4 +1,5 @@
-//This is the Comment Component from within the features folder
+// remember to put this into the features not the component folder!
+
 
 
 import React, { useEffect } from 'react';
